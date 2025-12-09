@@ -6,8 +6,8 @@
 ## 如何執行：
 ### 訓練檔：
 登入kaggle平台直接執行``AICUP_swimunest_訓練.ipynb``即可，須注意
-![image](https://hackmd.io/_uploads/S1_e7yIfZl.png)
-![image](https://hackmd.io/_uploads/HJHpf1IG-g.png)
+![image](./image/img1.png)
+![image](./image/img2.png)
 這兩個檔案的路徑要改成你下載位置的路徑
 或是直接在以下網址中執行：https://www.kaggle.com/code/iamnn2/aicup-train-model-swimunest/edit/run/274394240
 ### 測試檔：
