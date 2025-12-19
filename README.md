@@ -11,4 +11,4 @@
 這兩個檔案的路徑要改成你下載位置的路徑  
 或是直接在以下網址中執行：https://www.kaggle.com/code/iamnn2/aicup-train-model-swimunest/edit/run/274394240  
 ### 測試檔：  
-``AICUP_各個模型_推論.ipynb``建議直接在colab環境執行即可，如果要在kaggle端執行的話須把``/content/...``路徑改成``/kaggle/working/``路徑，或是直接在以下網址中執行：https://colab.research.google.com/drive/1WSjH1gFk4A7zcxXnIb5HntJnIOm5nHSu?usp=sharing
+``AICUP_各個模型_推論.ipynb``建議直接在colab環境執行即可，如果要在kaggle端執行的話須把``/content/...``路徑改成``/kaggle/working/...``路徑，或是直接在以下網址中執行：https://colab.research.google.com/drive/1WSjH1gFk4A7zcxXnIb5HntJnIOm5nHSu?usp=sharing
